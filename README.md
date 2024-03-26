@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 My real name is Trần Công Bằng but i would prefer you guys to call me as Tengu or Nuwu for short since my native name is in Vietnamese form which couldn't be translated well into other languages. My major is Biomedical Engineering (HCM International BME's Department) and I'm currently learning how to code and use Github to prepare for my future profile. My hobby is gaming and modding game consoles or any kind of devices that relate to electrical microcontroller. I also know a bit about mechanical basics from some classes on my university and G-code for 3D printing or CNC manufacturing.
+
 
 <!--
 **tengukosho/tengukosho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
